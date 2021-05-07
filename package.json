@@ -17,7 +17,7 @@
         "mongodb": "^3.5.5",
         "mongoose": "^5.9.7",
         "mongoose-unique-validator": "^2.0.3",
-        "underscore": "^1.10.1"
+        "underscore": "^1.12.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.3"
